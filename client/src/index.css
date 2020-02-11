@@ -126,4 +126,8 @@ li:hover {
   border-radius: 6px;
   transition: ease-in;
 }
+
+.card-text {
+  white-space: pre-wrap;
+}
 /* --------- */
